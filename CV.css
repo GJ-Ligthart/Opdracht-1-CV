@@ -1,0 +1,30 @@
+body{
+	font-family: Verdana;
+}
+
+ul li span{
+	display: inline-block;
+	width: 300px;
+}
+
+ul.persoonsgegevens{
+	list-style-type: none;
+}
+
+h3 {
+	border-top: solid;
+	border-bottom: solid;
+	color: black;
+}
+
+ul.opleidingen{
+	list-style-type: none
+}
+
+ul.werkervaring{
+	list-style-type: none
+}
+
+ul.cursussen.Vaardigheden.Talenkennis{
+	list-style-type: none
+}
